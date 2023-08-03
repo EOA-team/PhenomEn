@@ -1,4 +1,6 @@
 # PhenomEn
 
+This repository is a collection of software generated within the research project "PhenomEn" funded by the [Swiss National Science Foundation](https://snf.ch/en/FKhU9kAtfXx7w9AI/page/home). At the same time, it is also the collection of software supporting the PhD thesis of @lukasValentin.
+
 ## Abstract
 Several threats connected to climate change are decreasing the productivity of currently established crops. While we have a conceptual understanding of the interaction of climate and growing patterns, we are in most cases unable to provide quantitative estimates of the magnitude of phenological shifts. Moreover, much of what we know about plant-environment-management interactions comes from controlled experiments that neglect the diversity of our heterogeneous landscapes, where the environment interacts with plant growth. However, understanding these interactions is key to develop short- and long-term adaptation strategies that improve the resilience and sustainability of current farming practices by using appropriate crop rotations as well as crop varieties (genotypes) adapted to the local conditions and by applying the right treatments at the right place, time and intensity.
