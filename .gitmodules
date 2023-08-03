@@ -1,0 +1,12 @@
+[submodule "eodal"]
+	path = eodal
+	url = https://github.com/EOA-team/eodal
+[submodule "s2toarup"]
+	path = s2toarup
+	url = https://github.com/EOA-team/s2toarup
+[submodule "sentinel2_crop_traits"]
+	path = sentinel2_crop_traits
+	url = https://github.com/EOA-team/sentinel2_crop_traits
+[submodule "rtm_inv"]
+	path = rtm_inv
+	url = https://github.com/EOA-team/rtm_inv
