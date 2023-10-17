@@ -16,3 +16,6 @@
 [submodule "winter_wheat_phenology"]
 	path = winter_wheat_phenology
 	url = https://github.com/EOA-team/winter_wheat_phenology.git
+[submodule "phenology_ww"]
+	path = phenology_ww
+	url = https://github.com/EOA-team/winter_wheat_phenology
