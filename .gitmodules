@@ -7,6 +7,12 @@
 [submodule "sentinel2_crop_traits"]
 	path = sentinel2_crop_traits
 	url = https://github.com/EOA-team/sentinel2_crop_traits
+[submodule "sentinel2_crop_trait_timeseries"]
+	path = sentinel2_crop_trait_timeseries
+	url = https://github.com/EOA-team/sentinel2_crop_trait_timeseries
 [submodule "rtm_inv"]
 	path = rtm_inv
 	url = https://github.com/EOA-team/rtm_inv
+[submodule "winter_wheat_phenology"]
+	path = winter_wheat_phenology
+	url = https://github.com/EOA-team/winter_wheat_phenology.git
